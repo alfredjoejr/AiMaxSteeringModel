@@ -1,0 +1,2 @@
+use runner.py for GPU version
+use runner2.py for CPU version
